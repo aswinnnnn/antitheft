@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209412292632",
+    "project_id": "tracker-dce0a",
+    "storage_bucket": "tracker-dce0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209412292632:android:484ab56ae34830ad59036d",
+        "android_client_info": {
+          "package_name": "com.beta.trackphone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbWLHSK2Xmvq13pT9tDQ2VuO1_Qn7Cnu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
